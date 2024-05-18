@@ -9,6 +9,7 @@
 #pragma link C++ class R3BSofTcalContFact+;
 #pragma link C++ class R3BSofTcalPar+;
 
+#pragma link C++ class R3BSofSciRawTofPar+;
 #pragma link C++ class R3BSofiaProvideTStart+;
 
 #endif
